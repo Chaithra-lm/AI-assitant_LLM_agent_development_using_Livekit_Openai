@@ -111,7 +111,6 @@ If you wire up LiveKit STT/TTS/turn detection in your agent entrypoint:
 
 MIT – see [LICENSE](./LICENSE).
 
-```
 
 
 # 👩‍💻 Chaithra Lokasara Mahadevaswamy 
