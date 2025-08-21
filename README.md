@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🤖 AI Assistant – LLM Agent (LiveKit + OpenAI)
 
 Text 💬 & (optional) voice 🎤 AI assistant built with LiveKit Agents and OpenAI.  
@@ -116,7 +114,6 @@ MIT – see [LICENSE](./LICENSE).
 ```
 
 
-```markdown
 # 👩‍💻 Chaithra Lokasara Mahadevaswamy 
 
 **AI Enthusiast | 🧠 Data Alchemist | 🚀 Innovation Seeker | 🌟 AI Researcher**  
@@ -125,7 +122,7 @@ MIT – see [LICENSE](./LICENSE).
 📍 Chang Gung University, Taipei, Taiwan  
 🔗 [LinkedIn](https://www.linkedin.com/in/chaithra-lokasara-mahadevaswamy-5bb076214/)  
 🤝 500+ Connections
-```
+
 
 
 
